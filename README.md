@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I’m Pabitra Mohontha</h1>
 <h3 align="center">WordPress & Frontend Web Developer | CSE Student | Passionate Problem Solver</h3>
 
@@ -32,8 +33,7 @@ I’m passionate about building accessible, user-friendly digital solutions and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra004&theme=tokyonight" width="47%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra004&theme=tokyonight" width="47%" />
 </p>
 
 ---
