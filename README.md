@@ -1,42 +1,58 @@
-<h1 align="center">Hi 👋, I'm Pabitra Mohontha</h1>
-<h3 align="center">A passionate WordPress & Frontend Web Developer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I’m Pabitra Mohontha</h1>
+<h3 align="center">WordPress & Frontend Web Developer | CSE Student | Passionate Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:aporoppabitra.ap@gmail.com">✉️ aporoppabitra.ap@gmail.com</a> |
+  <a href="mailto:aporoppabitra.ap@gmail.com">📧 aporoppabitra.ap@gmail.com</a> •
   <a href="https://linkedin.com/in/pabitra-webdev" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
 
-🌱 I’m currently an intern at **TakHive**  
-🎓 CSE student at **National University, Bangladesh**  
-💻 I love working with **HTML, CSS, JavaScript, PHP, MySQL, WordPress**  
-🚀 Currently building: **Custom WordPress Themes and Responsive Web Applications**
+## 🚀 About Me
+
+I am a results-driven Web Developer specializing in WordPress theme development and frontend technologies. With a strong foundation in **HTML, CSS, JavaScript, PHP**, and **MySQL**, I craft responsive and dynamic websites with clean, maintainable code.
+
+Currently pursuing a **B.Sc. in Computer Science & Engineering** from **National University, Bangladesh**, and working as a **Web Development Intern at TakHive**, where I collaborate on real-world projects that enhance user experience and functionality.
+
+I’m passionate about building accessible, user-friendly digital solutions and continuously learning modern tools and best practices.
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack & Tools
+
+- 💡 Languages: `HTML`, `CSS`, `JavaScript`, `PHP`, `SQL`
+- 🛠️ CMS: `WordPress` (Custom Theme Development)
+- 🧰 Tools: `Git`, `GitHub`, `VS Code`, `Chrome DevTools`
+- 🌐 Frontend: `Responsive Web Design`, `jQuery`, `Bootstrap`
+- 📦 Backend: `MySQL`, `PHP`
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabitra-mohontha&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pabitra-mohontha&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pabitra-mohontha&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-mohontha&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/pabitra-webdev)  
-- 🌐 Portfolio: *(Add when ready)*  
-- 📧 Email: aporoppabitra.ap@gmail.com
+## 📌 Featured Projects
 
+- 🔧 **Custom WordPress Landing Page** – Mobile responsive, SEO-optimized design  
+- 💼 **Portfolio Website** – Personal branding site (Coming soon!)  
+- 🔍 **CRUD App** – Built with PHP & MySQL (from scratch)
+
+*(Add project links/screenshots if available)*
+
+---
+
+## 📬 Contact Me
+
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/pabitra-webdev)  
+- 📧 Email: aporoppabitra.ap@gmail.com  
+- 📂 Portfolio: *Coming soon*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
