@@ -37,6 +37,13 @@ I’m passionate about building accessible, user-friendly digital solutions and 
 </p>
 
 ---
+## 💼 Internship Experience
+
+🔹 **WordPress Web Developer Intern**  
+📍 ALOKIO
+📆 May 2025 – September 2025  
+Worked on custom WordPress theme development, responsive design, and dynamic content integration using WordPress Customizer and ACF.  
+
 
 ## 📌 Featured Projects
 
