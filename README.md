@@ -1,10 +1,7 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6AE&height=180&section=header&text=Pabitra%20Mohontha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6AE&center=true&vCenter=true&width=600&lines=WordPress+%26+Frontend+Web+Developer;CSE+Student+%40+National+University;Turning+Ideas+Into+Pixel-Perfect+Websites" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6AE&height=180&section=header&text=Pabitra%20Mohontha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+Email LinkedIn
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6AE&center=true&vCenter=true&width=650&lines=WordPress+%26+Frontend+Web+Developer;CSE+Student+%40+National+University;Turning+Ideas+Into+Pixel-Perfect+Websites;Building+Modern+%26+Responsive+Web+Experiences" alt="Typing SVG" />
-
-<br>
 
 </div>
 
