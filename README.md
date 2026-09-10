@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Pabitra Mohontha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6AE&height=180&section=header&text=Pabitra%20Mohontha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### WordPress & Frontend Web Developer | CSE Student | Passionate Problem Solver
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6AE&height=150&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6AE&center=true&vCenter=true&width=600&lines=WordPress+%26+Frontend+Web+Developer;CSE+Student+%40+National+University;Turning+Ideas+Into+Pixel-Perfect+Websites" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-aporoppabitra.ap%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aporoppabitra.ap@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C6AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabitra-webdev)
@@ -27,16 +25,31 @@ I'm passionate about building accessible, user-friendly digital solutions and co
 
 <div align="center">
 
+**Languages & Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**WordPress & Page Builders**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi%20Builder-654597?style=for-the-badge&logo=wordpress&logoColor=white)
+![Bricks](https://img.shields.io/badge/Bricks%20Builder-2A2E3A?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Design & Optimization**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![PageSpeed](https://img.shields.io/badge/Page%20Optimization-00A67E?style=for-the-badge&logo=speedtest&logoColor=white)
 
 </div>
 
@@ -45,8 +58,12 @@ I'm passionate about building accessible, user-friendly digital solutions and co
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE&currStreakLabel=00C6AE" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="48%" />
 </div>
 
 ---
