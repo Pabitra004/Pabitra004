@@ -13,10 +13,6 @@
 <br>
 
 
-
-
-
-
 </div>
 
 ---
@@ -88,25 +84,6 @@ I have experience working on real-world client projects, developing custom WordP
 
 </div>
 
----
-
-## GITHUB ANALYTICS
-
-### Code, consistency & continuous growth.
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE&text_color=C9D1D9" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE&currStreakLabel=00C6AE" width="48%" />
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pabitra004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="48%" />
-
-</div>
-
----
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -501,6 +478,26 @@ learning new technologies and building meaningful digital experiences.
 </a>
 
 </div>
+
+---
+
+## GITHUB ANALYTICS
+
+### Code, consistency & continuous growth.
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE&text_color=C9D1D9" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE&currStreakLabel=00C6AE" width="48%" />
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pabitra004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="48%" />
+
+</div>
+
+---
 
 ---
 
