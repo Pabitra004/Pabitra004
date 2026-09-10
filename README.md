@@ -29,6 +29,7 @@ I'm passionate about building accessible, user-friendly digital solutions and co
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,6 +44,7 @@ I'm passionate about building accessible, user-friendly digital solutions and co
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Divi](https://img.shields.io/badge/Divi%20Builder-654597?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bricks](https://img.shields.io/badge/Bricks%20Builder-2A2E3A?style=for-the-badge&logo=wordpress&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-2196F3?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Design & Optimization**
 
@@ -58,12 +60,12 @@ I'm passionate about building accessible, user-friendly digital solutions and co
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE&currStreakLabel=00C6AE" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=pabitra004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6AE&text_color=C9D1D9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=pabitra004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6AE&currStreakLabel=00C6AE" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pabitra004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="48%" />
 </div>
 
 ---
