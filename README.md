@@ -469,7 +469,7 @@ learning new technologies and building meaningful digital experiences.
 <img src="https://img.shields.io/badge/EMAIL%20ME-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/pabitra-webdev">
+<a href="https://linkedin.com/in/pabitra-mohontha">
 <img src="https://img.shields.io/badge/LINKEDIN-00C6AE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
