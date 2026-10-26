@@ -7,7 +7,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-aporoppabitra.ap%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aporoppabitra.ap@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C6AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabitra-webdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C6AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabitra-mohontha)
 [![GitHub](https://img.shields.io/badge/GitHub-pabitra004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabitra004)
 
 <br>
